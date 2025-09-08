@@ -87,15 +87,15 @@ This critique demonstrates the importance of comprehensive urban data analysis t
 ## Academic Context
 
 This critique was developed as part of urban planning and data analysis coursework, examining the intersection of:
-- Geographic Information Systems (GIS)
-- Urban planning policy
-- Environmental justice
-- Infrastructure safety
-- Community vulnerability assessment
+- 🗺️ Geographic Information Systems (GIS)
+- 🏙️ Urban planning policy
+- ⚖️ Environmental justice
+- 🏗️ Infrastructure safety
+- 🏘️ Community vulnerability assessment
 
-## Contact
+## 📧 Contact
 
-For questions about this analysis or collaboration opportunities in urban data research, please reach out through GitHub.
+For questions about this analysis or collaboration opportunities in urban data research, please reach out via email.
 
 ---
 
